@@ -1,3 +1,5 @@
+//CPPcheck
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
